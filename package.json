@@ -1,0 +1,8 @@
+{
+  "name": "serverless-nodejs-starter-dep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Nicholas Sherlock",
+  "license": "ISC"
+}
